@@ -1,7 +1,7 @@
 <?php
-require_once 'config/db.php';
-require_once 'config/functions.php';
-include "config/header.html";
+require_once 'db.php';
+require_once 'functions.php';
+include "header.html";
 ?>
 
 <!DOCTYPE html>
